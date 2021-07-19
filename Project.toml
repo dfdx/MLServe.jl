@@ -1,0 +1,4 @@
+name = "MLServe"
+uuid = "b68133fc-3bfa-497a-8c59-337c29bce193"
+authors = ["Andrei Zhabinski <andrei.zhabinski@gmail.com>"]
+version = "0.1.0"
